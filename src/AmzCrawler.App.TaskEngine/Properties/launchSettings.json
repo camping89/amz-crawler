@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AmzCrawler.App.TaskEngine": {
+      "commandName": "Project",
+      "commandLineArgs": "-id:4"
+    }
+  }
+}
